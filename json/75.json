@@ -1,0 +1,15 @@
+{
+  "name": "GoSino #75",
+  "description": " 100 Random Number Tickets",
+  "image": "https://gosinoclub.github.io/draw1/images/75.png",
+  "dna": "5ab2b4eb366a6376dd85b784a42d16d995213a0b",
+  "edition": 75,
+  "date": 1643893333146,
+  "attributes": [
+    {
+      "trait_type": "RandomNumber",
+      "value": "41"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
